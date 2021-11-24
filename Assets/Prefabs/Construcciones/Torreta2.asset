@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f75deea4fe8a8a44bdd30742945b656, type: 3}
+  m_Name: Torreta2
+  m_EditorClassIdentifier: 
+  itemName: Torreta 2
+  claveDescripcion: ITEM_BUILD_TORRETA2
+  description: "Torreta experimental de gama media, es resistente y tiene gran potencia...
+    pero son cada vez m\xE1s escasas y costosas de obtener."
+  icono: {fileID: 5658235122646412163, guid: dfe6a31e8547f0744b94559d3d7a30d5, type: 3}
+  precioTienda: 15000
+  effectModifier: 0
+  preFab: {fileID: 2255288709879440153, guid: 1cf246dfaa345da41b74827eddfe5a06, type: 3}
+  finalObj: {fileID: 5771679737120501731, guid: 28262c2cf4bd0ca4bbf0acc103146dcc, type: 3}
+  modiffierUsage: 0.5

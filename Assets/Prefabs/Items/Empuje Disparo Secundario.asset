@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2713b8e3db8c5a42ac30efbe2b7d659, type: 3}
+  m_Name: Empuje Disparo Secundario
+  m_EditorClassIdentifier: 
+  itemName: "Radio Explosi\xF3n +"
+  claveDescripcion: ITEM_SHOP_RADIOGRENADE
+  description: "La granada se construye con un nueva aleaci\xF3n, que con peque\xF1os
+    ajustes permite un radio de efecto m\xE1s grande, sin afectar la cantidad de
+    explosivo requerido."
+  icono: {fileID: -2190050048758307722, guid: f1087b05607d90342b9518f78d3c3f85, type: 3}
+  precioTienda: 1000
+  effectModifier: 0.05
+  colorMaxLvl: {r: 0.9, g: 0.1, b: 0.1, a: 1}
+  typeItem: 3
+  powerUpNot: {fileID: 74449008203277068, guid: 3569a21d3108a584d86449c07b43c76b, type: 3}
+  errorBuying: {fileID: 1038086450952782491, guid: 8785a6c0fdc59cc4e8cf285417d0b83a, type: 3}
+  modiffierUsage: 0.3

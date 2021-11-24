@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8924937795976639395
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1281063252289598866, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: cashPlayer
+      value: 
+      objectReference: {fileID: 4951869905558616420}
+    - target: {fileID: 1281063252289598866, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: tituloTienda
+      value: 
+      objectReference: {fileID: 2631955213123053997}
+    - target: {fileID: 1281063252289598866, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: itemsToButton.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1281063252289598866, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: itemsToButton.Array.data[4]
+      value: 
+      objectReference: {fileID: 11400000, guid: 4db4809b9e4a62a4aa6711af5756b9fd, type: 2}
+    - target: {fileID: 1281063252289598866, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: itemsToButton.Array.data[5]
+      value: 
+      objectReference: {fileID: 11400000, guid: 3e0b83c5a7dc3804ca7760e953a92057, type: 2}
+    - target: {fileID: 1281063252289598866, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: itemsToButton.Array.data[6]
+      value: 
+      objectReference: {fileID: 11400000, guid: 946924b5232c2064cb9b2398b99e3bb8, type: 2}
+    - target: {fileID: 1281063252289598866, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: itemsToButton.Array.data[7]
+      value: 
+      objectReference: {fileID: 11400000, guid: 946924b5232c2064cb9b2398b99e3bb8, type: 2}
+    - target: {fileID: 4375141286149929781, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: cashPlayer
+      value: 
+      objectReference: {fileID: 7622426607765895107}
+    - target: {fileID: 4375141286149929781, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: tituloTienda
+      value: 
+      objectReference: {fileID: 717843372570863370}
+    - target: {fileID: 4375141286149929781, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: itemsToButton.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375141286149929781, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: itemsToButton.Array.data[1]
+      value: 
+      objectReference: {fileID: 11400000, guid: d078c5d989a0e424ba8ebbd1bff913de, type: 2}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145915, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4489293327468145916, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_Name
+      value: Sistema de Eventos Player - Endless
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705497783128647285, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6705497783128647285, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6871695824456964622, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_text
+      value: Tienda
+      objectReference: {fileID: 0}
+    - target: {fileID: 6871695824456964622, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 7751270652026100561, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8227501602967213225, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_text
+      value: Tienda
+      objectReference: {fileID: 0}
+    - target: {fileID: 8227501602967213225, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+--- !u!114 &2631955213123053997 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6871695824456964622, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+  m_PrefabInstance: {fileID: 8924937795976639395}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &4951869905558616420 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4567543731789597383, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+  m_PrefabInstance: {fileID: 8924937795976639395}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &717843372570863370 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8227501602967213225, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+  m_PrefabInstance: {fileID: 8924937795976639395}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7622426607765895107 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1302652168376550496, guid: 2b8b696f8c1d9824f852b1220666404a, type: 3}
+  m_PrefabInstance: {fileID: 8924937795976639395}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

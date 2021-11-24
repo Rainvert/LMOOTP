@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Nucleo
+  - EnemyRespawn
+  - GameManager
+  - UIPlayer
+  - UIBuild
+  - LuzGlobal
+  - Lluvia
+  - Bullet
+  - Shop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - OwnLight
+  - Water
+  - UI
+  - Atacable
+  - Build
+  - Enemigo
+  - IgnorarBalas
+  - Jugador
+  - Vegetacion
+  - IANeutral
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top Layer
+    uniqueID: 2517039807
+    locked: 0

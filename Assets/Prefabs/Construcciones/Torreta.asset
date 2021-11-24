@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f75deea4fe8a8a44bdd30742945b656, type: 3}
+  m_Name: Torreta
+  m_EditorClassIdentifier: 
+  itemName: Torreta
+  claveDescripcion: ITEM_BUILD_TORRETA
+  description: "Torreta de baja Construcci\xF3n. \xA1Tiene potencia! Pero demora
+    mucho entre disparos :("
+  icono: {fileID: 7480371962187380152, guid: 78d3c82ddffb7d247b324518adc07e92, type: 3}
+  precioTienda: 1000
+  effectModifier: 0
+  preFab: {fileID: 2255288709879440153, guid: 1cf246dfaa345da41b74827eddfe5a06, type: 3}
+  finalObj: {fileID: 2650588721825011018, guid: 19ead6352ecd91a42b0bcd4f485ffff7, type: 3}
+  modiffierUsage: 0.2
